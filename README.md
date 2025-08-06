@@ -12,6 +12,8 @@ This script uses Selenium to scrape skincare product details from the Snapklik.c
 - Extracts product info like name, price, and ingredients (if available)
 - Saves the data to a CSV file
 
+## CODE SNIPPET
+<img width="1895" height="844" alt="CODE SNIPPET" src="https://github.com/user-attachments/assets/94f19b5e-88e2-4542-b185-7210d92b665a" />
 ## 🛠 Technologies
 
 - Python
